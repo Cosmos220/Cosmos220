@@ -26,10 +26,6 @@ Clone du jeu culte, logique de jeu et rendu. Java · JavaFX
 🧭 Polaris
 Application PWA avec API back en Python. Vue.js · Flask
 
-</td> <td width="50%" valign="top">
-🎮 IUT Clicker
-Petit jeu type incremental/clicker, en solo. Godot
-
 </td> </tr> </table>
 Retrouve le détail (et les captures) sur mon portfolio → portfolio.loickdavi.fr
 
