@@ -6,12 +6,10 @@ Afficher l'image
 
 </div> <br/>
 À propos
-Étudiant en BUT Informatique (3ᵉ année, IUT), profil full-stack orienté front-end. J'aime construire des interfaces soignées et un peu vivantes — animations, micro-interactions, dark mode par défaut — sans négliger ce qu'il y a derrière (API, base de données, déploiement).
+Étudiant en BUT Informatique (3ᵉ année, IUT)
 
-🔭 Actuellement sur un portfolio Vue 3 / Vite / TypeScript / Tailwind
-🌱 J'explore aussi le développement Android (Kotlin, Wear OS) et Godot
 🎯 En recherche d'alternance à partir d'avril 2026
-💬 Je parle français (et un anglais tout à fait fonctionnel)
+💬 Je parle français, anglais 
 <br/>
 Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,vite,tailwind,php,mysql,docker,kotlin,androidstudio,godot,git,figma" alt="Stack icons" /> </div> <br/>
