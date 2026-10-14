@@ -8,7 +8,7 @@ Afficher l'image
 À propos
 Étudiant en BUT Informatique (3ᵉ année, IUT)
 
-🎯 En recherche d'alternance à partir d'avril 2026
+🎯 En recherche de stage à partir de mars 2026
 💬 Je parle français, anglais 
 <br/>
 Stack
